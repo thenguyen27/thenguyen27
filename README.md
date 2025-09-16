@@ -35,11 +35,11 @@
 </p>
 
 ## 👨‍💻 About Me
-💻 Specialized in **Laravel, Vue.js, SQL, JavaScript**  
-🚀 Experience building **scalable web apps & e-commerce platforms**  
-🔧 Focus on **clean code, performance, and system optimization**  
-🤝 Strong teamwork & problem-solving mindset  
-📚 Always learning new technologies  
+&emsp;💻 Specialized in **Laravel, Vue.js, SQL, JavaScript**  
+&emsp;🚀 Experience building **scalable web apps & e-commerce platforms**  
+&emsp;🔧 Focus on **clean code, performance, and system optimization**  
+&emsp;🤝 Strong teamwork & problem-solving mindset  
+&emsp;📚 Always learning new technologies  
 
 ## 📫 Connect with Me
 <div align="center">
