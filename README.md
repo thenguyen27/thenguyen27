@@ -16,21 +16,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,lumen,vue,nuxt,js,ts,html,css,bootstrap,tailwind,scss,git,mysql,sqlite,redis,nginx,docker,postman,figma&perline=10" />
 </p>
 
----
-
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&theme=tokyonight" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="streak"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=8&theme=tokyonight" alt="top languages"/>
-</p>
-
----
-
 ### 📌 Featured Projects
 - **Watakyu Laundry System** — Hospital/Hotel rental & laundry management with contract module, PDF/Excel reporting.
 - **Hikari LMS** — Redesigned UI/UX & migrated Laravel 5.8 → 8.0; improved performance & stability.
