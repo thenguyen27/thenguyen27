@@ -1,7 +1,7 @@
 <!-- Profile README for Tran The Nguyen -->
 
 <h1 align="center">👋 Hi, I'm Tran The Nguyen</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Web Developer | Focused on Performance, Clean Code & Continuous Growth</h3>
 
 ## 🌐 Portfolio
 
