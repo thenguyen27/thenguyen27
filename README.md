@@ -6,7 +6,7 @@
   <img width="192" height="192" alt="Profile Avatar" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" />
 </p>
 
----
+
 
 ## 🛠️ Tech & Tools
 <p align="center">
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=fff"/>
 </p>
 
----
 
 ## 📫 Connect with me
 
@@ -42,7 +41,6 @@
 </div>
 
 
----
 
 ## 👨‍💻 About Me
 - 💻 Web Developer focused on **Laravel, Vue.js, SQL, JavaScript**  
@@ -50,7 +48,6 @@
 - 📚 Always learning & sharing knowledge  
 - 🏸 Badminton & 🏃‍♂️ Running enthusiast  
 
----
 
 <p align="center">
   ⭐️ From <a href="https://github.com/thenguyen27">Tran The Nguyen</a>
