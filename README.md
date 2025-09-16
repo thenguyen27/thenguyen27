@@ -1,9 +1,13 @@
 <!-- Profile README for Tran The Nguyen -->
 
-<h1 align="center">Hi! 👋 I'm Tran The Nguyen</h1>
+<h1 align="center">👋 Hi, I'm Tran The Nguyen</h1>
+<h3 align="center">Web Developer (Laravel & Vue.js)</h3>
 
+## 🌐 Portfolio
 <p align="center">
-  <img width="192" height="192" alt="Profile Avatar" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" />
+  <a href="https://devtrails.io.vn/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=fff"/>
+  </a>
 </p>
 
 ## 🛠️ Tech & Tools
@@ -28,8 +32,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff"/>
 </p>
 
-## 📫 Connect with me
+## 👨‍💻 About Me
+- 💻 Specialized in **Laravel, Vue.js, SQL, JavaScript**  
+- 🚀 Experience building **scalable web apps & e-commerce platforms**  
+- 🔧 Focus on **clean code, performance, and system optimization**  
+- 🤝 Strong teamwork & problem-solving mindset  
+- 📚 Always learning new technologies  
 
+## 📫 Connect with Me
 <div align="center">
   <a href="https://www.facebook.com/thenguyennn">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" hspace="10"/>
@@ -45,12 +55,7 @@
   </a>
 </div>
 
-## 👨‍💻 About Me
-- 💻 Web Developer focused on **Laravel, Vue.js, SQL, JavaScript**  
-- ✨ Passionate about **clean code**, **performance**, and **scalability**  
-- 📚 Always learning & sharing knowledge  
-- 🏸 Badminton & 🏃‍♂️ Running enthusiast
-- 🌐 Check out my [Portfolio](https://devtrails.io.vn/)  
+---
 
 <p align="center">
   ⭐️ From <a href="https://github.com/thenguyen27">Tran The Nguyen</a>
