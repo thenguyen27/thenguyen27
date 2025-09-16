@@ -12,14 +12,17 @@
 
 ## 📫 Connect with me  
 
+## 📫 Connect with me  
+
 <p align="center">
 
-[![Facebook](https://cdn-icons-png.flaticon.com/512/733/733547.png)](https://www.facebook.com/thenguyennn)
-[![Zalo](https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg)](https://zalo.me/)
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/thenguyennn/)
-[![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:t.thenguyen27@gmail.com)
+[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48"/>](https://www.facebook.com/thenguyennn)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="48"/>](https://zalo.me/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48"/>](https://www.linkedin.com/in/thenguyennn/)
+[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48"/>](mailto:t.thenguyen27@gmail.com)
 
 </p>
+
 
 ---
 
