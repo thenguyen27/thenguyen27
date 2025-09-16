@@ -25,14 +25,22 @@
 ---
 
 ## 📫 Connect with me
-<p align="center">
 
-[<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48"/>](https://www.facebook.com/thenguyennn)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="48"/>](https://zalo.me/)
-[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48"/>](https://www.linkedin.com/in/thenguyennn/)
-[<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48"/>](mailto:t.thenguyen27@gmail.com)
+<div align="center">
+  <a href="https://www.facebook.com/thenguyennn">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48"/>
+  </a>
+  <a href="https://zalo.me/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thenguyennn/">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48"/>
+  </a>
+  <a href="mailto:t.thenguyen27@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48"/>
+  </a>
+</div>
 
-</p>
 
 ---
 
