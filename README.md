@@ -28,15 +28,15 @@
 ## 📫 Connect with me  
 
 <p align="center">
-  <a href="https://facebook.com/your.profile">
+  <a href="https://www.facebook.com/thenguyennn">
     <img alt="Facebook" width="48px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://zalo.me/your-id">
+  <a href="https://zalo.me/">
     <img alt="Zalo" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/thenguyennn/">
     <img alt="LinkedIn" width="48px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &nbsp;&nbsp;
