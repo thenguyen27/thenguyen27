@@ -28,19 +28,19 @@
 ## 📫 Connect with me  
 
 <p align="center">
-  <a href="https://www.facebook.com/thenguyennn" style="text-decoration: none;">
+  <a href="https://www.facebook.com/thenguyennn">
     <img alt="Facebook" width="48px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>
 
-  <a href="https://zalo.me/" style="text-decoration: none;">
+  <a href="https://zalo.me/">
     <img alt="Zalo" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/thenguyennn/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/thenguyennn/">
     <img alt="LinkedIn" width="48px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
 
-  <a href="mailto:t.thenguyen27@gmail.com" style="text-decoration: none;">
+  <a href="mailto:t.thenguyen27@gmail.com">
     <img alt="Gmail" width="48px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
