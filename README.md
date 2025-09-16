@@ -4,8 +4,9 @@
 <h3 align="center">Web Developer (Laravel & Vue.js)</h3>
 
 ## 🌐 Portfolio
-<p align="center">
+
   <p align="center"> <img width="192" height="192" alt="Profile Avatar" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" /> </p>
+<p align="center">
   <a href="https://devtrails.io.vn/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=fff"/>
   </a>
