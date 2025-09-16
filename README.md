@@ -49,7 +49,8 @@
 - 💻 Web Developer focused on **Laravel, Vue.js, SQL, JavaScript**  
 - ✨ Passionate about **clean code**, **performance**, and **scalability**  
 - 📚 Always learning & sharing knowledge  
-- 🏸 Badminton & 🏃‍♂️ Running enthusiast  
+- 🏸 Badminton & 🏃‍♂️ Running enthusiast
+- 🌐 Check out my [Portfolio](https://devtrails.io.vn/)  
 
 <p align="center">
   ⭐️ From <a href="https://github.com/thenguyen27">Tran The Nguyen</a>
