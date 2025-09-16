@@ -6,8 +6,6 @@
   <img width="192" height="192" alt="Profile Avatar" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" />
 </p>
 
-
-
 ## 🛠️ Tech & Tools
 <p align="center">
   <!-- Frontend -->
@@ -34,27 +32,24 @@
 
 <div align="center">
   <a href="https://www.facebook.com/thenguyennn">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="48" hspace="10"/>
   </a>
   <a href="https://zalo.me/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="48"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg" width="48" hspace="10"/>
   </a>
   <a href="https://www.linkedin.com/in/thenguyennn/">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="48" hspace="10"/>
   </a>
   <a href="mailto:t.thenguyen27@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48" hspace="10"/>
   </a>
 </div>
-
-
 
 ## 👨‍💻 About Me
 - 💻 Web Developer focused on **Laravel, Vue.js, SQL, JavaScript**  
 - ✨ Passionate about **clean code**, **performance**, and **scalability**  
 - 📚 Always learning & sharing knowledge  
 - 🏸 Badminton & 🏃‍♂️ Running enthusiast  
-
 
 <p align="center">
   ⭐️ From <a href="https://github.com/thenguyen27">Tran The Nguyen</a>
