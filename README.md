@@ -3,9 +3,8 @@
 
 <h1 align="center">Hi! My name is Tran The Nguyen 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJlY2ViNGE0YzhlYjk3ZTA0NjhmM2I4Y2Y4ZWI2N2E0N2FlMWVhNSZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="260" alt="cute dev mascot"/>
-</p>
+<img width="192" height="192" alt="android-chrome-192x192" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" />
+
 
 ### 📫 Where to find me
 <p align="center">
