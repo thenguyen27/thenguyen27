@@ -8,7 +8,8 @@
 
 ### 📫 Where to find me
 <p align="center">
-  <a href="https://facebook.com/your.profile"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+  <a href="https://facebook.com/your.profile"><img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/4af2af18-d083-4c22-9137-2b45c31c0f30" />
+</a>
   <a href="https://zalo.me/your-id"><img alt="Zalo" src="https://img.shields.io/badge/Zalo-0068FF?logo=wechat&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-profile"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:t.thenguyen27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"></a>
