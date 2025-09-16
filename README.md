@@ -28,8 +28,8 @@
 const developer = {
   name: "Tran The Nguyen",
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  role: "Full Stack Web Developer",
-  experience: "3+ years",
+  role: "Web Developer",
+  experience: "1.5+ years",
   focus: ["Performance Optimization", "Clean Architecture", "Scalable Solutions"],
   currentlyLearning: ["Advanced Laravel Patterns", "Vue 3 Composition API", "DevOps"],
   funFact: "I believe clean code is not just about syntax, it's about clarity of thought 💭"
