@@ -35,11 +35,11 @@
 </p>
 
 ## 👨‍💻 About Me
-- 💻 Specialized in **Laravel, Vue.js, SQL, JavaScript**  
-- 🚀 Experience building **scalable web apps & e-commerce platforms**  
-- 🔧 Focus on **clean code, performance, and system optimization**  
-- 🤝 Strong teamwork & problem-solving mindset  
-- 📚 Always learning new technologies  
+💻 Specialized in **Laravel, Vue.js, SQL, JavaScript**  
+🚀 Experience building **scalable web apps & e-commerce platforms**  
+🔧 Focus on **clean code, performance, and system optimization**  
+🤝 Strong teamwork & problem-solving mindset  
+📚 Always learning new technologies  
 
 ## 📫 Connect with Me
 <div align="center">
@@ -57,7 +57,6 @@
   </a>
 </div>
 
----
 
 <p align="center">
   ⭐️ From <a href="https://github.com/thenguyen27">Tran The Nguyen</a>
