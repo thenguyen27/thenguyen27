@@ -4,6 +4,7 @@
 
 <p align="center">
   <img width="192" height="192" alt="Profile Avatar" src="https://github.com/user-attachments/assets/5e736d5d-2959-421f-b249-09aae93fdf51" />
+  ![20250916_1635_Friendly Cartoon Wave_simple_compose_01k58y27a6fsvrhtwkqeq72z20](https://github.com/user-attachments/assets/0aa60cf2-5b9c-4de6-a1ff-c4a8fc63e531)
 </p>
 
 ## 🛠️ Tech & Tools
