@@ -34,19 +34,19 @@
 
 <p align="center">
   <a href="https://facebook.com/your.profile">
-    <img alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"/>
+    <img alt="Facebook" width="48px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://zalo.me/your-id">
-    <img alt="Zalo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"/>
+    <img alt="Zalo" width="48px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Icon_of_Zalo.svg"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/your-profile">
-    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img alt="LinkedIn" width="48px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:t.thenguyen27@gmail.com">
-    <img alt="Gmail" width="40px" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" />
+    <img alt="Gmail" width="48px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
 
