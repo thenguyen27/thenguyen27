@@ -1,9 +1,3 @@
-
-<style>
-  .social-icons a {
-    text-decoration: none;
-  }
-</style>
 <!-- Profile README for Tran The Nguyen -->
 
 <h1 align="center">Hi! 👋 I'm Tran The Nguyen</h1>
@@ -33,7 +27,7 @@
 
 ## 📫 Connect with me  
 
-<p align="center" class="social-icons">
+<p align="center">
   <a href="https://www.facebook.com/thenguyennn">
     <img alt="Facebook" width="48px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png"/>
   </a>
@@ -50,6 +44,7 @@
     <img alt="Gmail" width="48px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/>
   </a>
 </p>
+
 
 
 ---
